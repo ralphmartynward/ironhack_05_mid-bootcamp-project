@@ -37,7 +37,7 @@ In this section, I dive deeper into the exploration of the movie data.
 
 ## Data Preprocessing & Feature Engineering
 
-I analyze IMDb ratings, introduce weighted ratings, and account for the time decay factor.
+I analyze IMDb ratings, introduce weighted ratings, and account for the time decay factor. I also cast directors, genre and starts to lists so I can work with them more easily.
 
 ## Data Transformation
 
@@ -51,6 +51,7 @@ A variety of visualizations are used to better understand the movie data, such a
 - Number of movies per genre
 - Average weighted rank by genre
 - Top actors by frequency in the top 5000 movies
+- Top directors by frequency in the top 5000 movies
 
 ## Hypothesis Testing
 
