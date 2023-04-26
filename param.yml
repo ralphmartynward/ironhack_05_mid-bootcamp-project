@@ -1,1 +1,10 @@
 # settings used in your project (folders, random_seeds, neighbors, etc.)
+
+data: 
+  pinterestdf: '../data/raw/pinterest.csv'
+  moviesdf: '../data/raw/moviesdf.csv'
+  movies: '../data/clean/movies.csv'
+  movies_clean: '../data/clean/movies_clean.csv'
+
+encoders: 
+  encoder: '../encoders/genre_one_hot_df.pkl'
