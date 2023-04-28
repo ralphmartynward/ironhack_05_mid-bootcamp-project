@@ -9,6 +9,26 @@ This project is a movie analysis based on data from IMDb.com, incorporating a la
   <img src="https://raw.githubusercontent.com/ralphmartynward/ironhack_05_mid-bootcamp-project/main/img/ralphward_Hyper_realistic_4K_photo_extremely_detailed._A_man_is_230994f0-96be-4535-8eb6-9f0ae36df04f.png" alt="Midjourney prompt" style="width: 50%;" />
 </p>
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h2>Table of Contents</h2>
+      <ul>
+        <li><a href="#project-description">Project Description</a></li>
+        <li><a href="#data-collection">Data Collection</a></li>
+        <li><a href="#eda">Exploratory Data Analysis (EDA)</a></li>
+        <li><a href="#data-preprocessing">Data Preprocessing & Feature Engineering</a></li>
+        <li><a href="#data-transformation">Data Transformation</a></li>
+        <li><a href="#custom-overview">Custom Overview: My Watched Movies</a></li>
+        <li><a href="#recommendation-system">Recommendation System</a></li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <img src="[https://path/to/your/image.png](https://raw.githubusercontent.com/ralphmartynward/ironhack_05_mid-bootcamp-project/main/img/ralphward_Hyper_realistic_4K_photo_extremely_detailed._A_man_is_230994f0-96be-4535-8eb6-9f0ae36df04f.png)" alt="Midjourney prompt" />
+    </td>
+  </tr>
+</table>
+
 
 
 ## Table of Contents
