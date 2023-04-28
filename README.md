@@ -4,7 +4,10 @@
 # Mid Bootcamp Project: Movie Analysis
 
 This project is a movie analysis based on data from IMDb.com, incorporating a large sample of movies I have seen. The goal is to explore data science tools learned in the bootcamp and have fun with the data. The ultimate goal is to create a recommendation system for movies based on my taste.
-!(https://raw.githubusercontent.com/ralphmartynward/ironhack_05_mid-bootcamp-project/main/img/ralphward_Hyper_realistic_4K_photo_extremely_detailed._A_man_is_230994f0-96be-4535-8eb6-9f0ae36df04f.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ralphmartynward/ironhack_05_mid-bootcamp-project/main/img/ralphward_Hyper_realistic_4K_photo_extremely_detailed._A_man_is_230994f0-96be-4535-8eb6-9f0ae36df04f.png" />
+</p>
+
 
 ## Table of Contents
 1. [Project Description](#project-description)
