@@ -1,3 +1,6 @@
+# See here the presentation
+[Presentation](https://docs.google.com/presentation/d/1SOJXSxNHRKVR9sd_7R52Ugw_1CDB3xub7jMfQW1Q5-Q/edit?usp=sharing)
+
 # Mid Bootcamp Project: Movie Analysis
 
 This project is a movie analysis based on data from IMDb.com, incorporating a large sample of movies I have seen. The goal is to explore data science tools learned in the bootcamp and have fun with the data. The ultimate goal is to create a recommendation system for movies based on my taste.
